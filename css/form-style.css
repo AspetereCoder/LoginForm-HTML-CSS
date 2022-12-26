@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(219, 214, 214);
+}
+
+
+main {
+    margin: 15vh auto;
+    width: 30vw;
+    min-width: 300px;
+    background-color: rgb(243, 243, 243);
+    padding: 15px;
+}
